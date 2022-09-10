@@ -1,0 +1,6 @@
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\bin\Debug\Modelos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\bin\Debug\Modelos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\obj\Debug\Modelos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\obj\Debug\Modelos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache

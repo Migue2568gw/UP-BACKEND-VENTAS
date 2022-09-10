@@ -1,0 +1,61 @@
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Venta Productos.dll.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Venta Productos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Venta Productos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csc.exe
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csc.exe.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csc.rsp
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csi.exe
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csi.exe.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\csi.rsp
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.AppContext.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Console.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.IO.Compression.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Security.Claims.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.ValueTuple.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\vbc.exe
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\vbc.exe.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\vbc.rsp
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Modelos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Servicio.Persona.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\AccesoDatos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Modelos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Servicio.Persona.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\AccesoDatos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\AccesoDatos.dll.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\obj\Debug\Venta Productos.csprojAssemblyReference.cache
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\obj\Debug\Venta Productos.csproj.CoreCompileInputs.cache
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\obj\Debug\Venta Productos.csproj.CopyComplete
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\obj\Debug\Venta Productos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\obj\Debug\Venta Productos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\ServicioProducto.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\ServicioProducto.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Servicio.Venta.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Venta Productos\bin\Servicio.Venta.pdb

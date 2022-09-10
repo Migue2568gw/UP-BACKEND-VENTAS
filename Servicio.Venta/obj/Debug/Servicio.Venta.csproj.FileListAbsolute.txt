@@ -1,0 +1,12 @@
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\Servicio.Venta.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\Servicio.Venta.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\AccesoDatos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\Modelos.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\AccesoDatos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\AccesoDatos.dll.config
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\bin\Debug\Modelos.pdb
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\obj\Debug\Servicio.Venta.csprojAssemblyReference.cache
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\obj\Debug\Servicio.Venta.csproj.CoreCompileInputs.cache
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\obj\Debug\Servicio.Venta.csproj.CopyComplete
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\obj\Debug\Servicio.Venta.dll
+C:\Users\mgonzalezwil\source\repos\Venta Productos\Servicio.Venta\obj\Debug\Servicio.Venta.pdb
